@@ -6,4 +6,4 @@ My focus is on game servers, distributed systems, AI programming, and performanc
 I enjoy building the core systems behind games and finding practical ways to make them reliable, efficient, and easy to maintain.
 I'm always curious about new technologies and better ways to solve problems.
 
-Let's share ideas, build great games, and have fun together!
+Let's share ideas, build great games, and have fun together !
